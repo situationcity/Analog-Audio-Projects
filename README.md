@@ -1,2 +1,3 @@
-# Analog-Audio-Projects
-Analog circuit designs and prototypes for audio equipment
+# Analog Audio Projects & Prototyping
+
+This repository serves as a portfolio for my handcrafted analog audio equipment designs.
