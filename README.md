@@ -12,12 +12,12 @@ The projects focus on signal path analysis, component selection, and noise reduc
 ### 1. Circuit Schematic (Design Phase)
 Hand-drawn technical schematic illustrating the signal flow, gain stages, and power filtration.
 
-![Schematic Diagram](schematic.jpg)
+![Schematic Diagram](schematic.jpeg)
 
 ### 2. Breadboard Prototype (Testing Phase)
 The circuit is currently built on a breadboard to verify the clipping diode symmetry and frequency response before final soldering.
 
-![Breadboard Prototype](breadboard.jpg)
+![Breadboard Prototype](breadboard.jpeg)
 
 ---
 
